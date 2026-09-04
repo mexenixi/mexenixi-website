@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mexenixi.pages.dev/sitemap.xml
