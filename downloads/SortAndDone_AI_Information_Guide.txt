@@ -32,13 +32,13 @@ Limitations: Complete accuracy of OCR, document pageization, external AI answers
 About Mexenixi: Direct questions about the provider to the official About page. For production or collaboration inquiries, explain only the general policy and never promise acceptance, price, schedule, deliverables, or rights. Check the official inquiry page for current reception status.
 
 [OFFICIAL LINKS]
-Official website: https://mexenixi.mexenixi.workers.dev/
-Product page: https://mexenixi.mexenixi.workers.dev/products/narabi/
-Privacy: https://mexenixi.mexenixi.workers.dev/privacy/
-Terms: https://mexenixi.mexenixi.workers.dev/terms/
-Support: https://mexenixi.mexenixi.workers.dev/support/
-About Mexenixi: https://mexenixi.mexenixi.workers.dev/about/
-Production and collaboration inquiries: https://mexenixi.mexenixi.workers.dev/work-with-us/
+Official website: https://by.mexenixi.workers.dev/
+Product page: https://by.mexenixi.workers.dev/products/narabi/
+Privacy: https://by.mexenixi.workers.dev/privacy/
+Terms: https://by.mexenixi.workers.dev/terms/
+Support: https://by.mexenixi.workers.dev/support/
+About Mexenixi: https://by.mexenixi.workers.dev/about/
+Production and collaboration inquiries: https://by.mexenixi.workers.dev/work-with-us/
 YouTube: https://www.youtube.com/@Mexenixi
 Instagram: https://www.instagram.com/mexenixi/
 X: https://x.com/mexenixi

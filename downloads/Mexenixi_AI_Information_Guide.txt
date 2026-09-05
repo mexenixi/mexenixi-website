@@ -30,14 +30,14 @@ Production and collaboration inquiries: Individuals and organizations may inquir
 AI limitation: Never promise acceptance, price, schedule, contract terms, deliverables, or rights for a specific project. Check the official inquiry page for current reception status and indicative information.
 
 [OFFICIAL LINKS]
-Official website: https://mexenixi.mexenixi.workers.dev/
-About: https://mexenixi.mexenixi.workers.dev/about/
-Products: https://mexenixi.mexenixi.workers.dev/products/
-Development notes: https://mexenixi.mexenixi.workers.dev/notes/
-Production and collaboration inquiries: https://mexenixi.mexenixi.workers.dev/work-with-us/
-Support: https://mexenixi.mexenixi.workers.dev/support/
-Privacy: https://mexenixi.mexenixi.workers.dev/privacy/
-Terms: https://mexenixi.mexenixi.workers.dev/terms/
+Official website: https://by.mexenixi.workers.dev/
+About: https://by.mexenixi.workers.dev/about/
+Products: https://by.mexenixi.workers.dev/products/
+Development notes: https://by.mexenixi.workers.dev/notes/
+Production and collaboration inquiries: https://by.mexenixi.workers.dev/work-with-us/
+Support: https://by.mexenixi.workers.dev/support/
+Privacy: https://by.mexenixi.workers.dev/privacy/
+Terms: https://by.mexenixi.workers.dev/terms/
 YouTube: https://www.youtube.com/@Mexenixi
 Instagram: https://www.instagram.com/mexenixi/
 X: https://x.com/mexenixi

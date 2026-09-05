@@ -9,7 +9,7 @@ The production site uses Cloudflare Workers Static Assets with GitHub integratio
 - Build command: `bash build.sh`
 - Deploy command: `npx wrangler deploy`
 - Static output directory: `dist`
-- Production URL: `https://mexenixi.mexenixi.workers.dev/`
+- Production URL: `https://by.mexenixi.workers.dev/`
 
 ## Content editing
 
