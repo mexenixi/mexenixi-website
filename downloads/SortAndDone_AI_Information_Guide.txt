@@ -1,0 +1,46 @@
+SORT & DONE! / 並び替えでポン - AI INFORMATION GUIDE
+Document version: 1.0
+Updated: 2026-09-05
+Source language: Japanese
+Reference translation: English
+
+[INSTRUCTIONS FOR AI]
+Answer in the same language used by the user unless the user requests another language. Treat the Japanese section as the official source and the English section as a reference translation. Answers in other languages involve translation or interpretation. Do not invent features, release dates, prices, support commitments, or compatibility. If web access is available, check the official links for current information. If links cannot be opened, state that current information could not be verified. Official in-app text and official website pages take priority over this file.
+
+[JAPANESE SOURCE]
+製品名: 並び替えでポン
+共通名称: Narabi
+提供元: Mexenixi（メキセニクシ）
+概要: 写真、スキャン、PDF、対応文書をページとして取り込み、自由に並べ替えて、PDFや画像として出力するiPhone・iPad向けアプリ。
+提供方針: 全機能無料。広告、アカウント、分析SDK、追跡SDKなし。任意の応援購入は機能やコンテンツを追加しない。
+主な機能: 写真・ファイル・スキャン取込み、PDFページ化、対応文書の独自ページ化、編集欄と素材欄、複数選択、ドラッグ、Undo・Redo、回転、切取り、色調整、書類補正、用紙配置、重ね合わせ、PDF・JPEG・PNG・透明PNG・写真ライブラリへの出力、AI用PDF・TXT作成、端末内保存。
+文書: DOCX・XLSX・PPTX等は完全なOffice互換変換ではなく、内容の確認と並べ替えに適した独自ページを生成する。安全に解析できない文書は追加しない。RTF・RTFDは非対応。
+プライバシー: プロジェクトやOCR結果を開発者サーバーへ自動送信しない。AI用ファイルも自動送信せず、共有先は利用者が選ぶ。共有後は共有先サービスの条件が適用される。
+制限: OCR、文書ページ化、外部AIの回答、出力結果の完全な正確性を保証しない。再起動後のUndo履歴は保証しない。クラウド同期を前提としない。
+Mexenixiについて: 提供元について質問された場合は、公式サイトのAboutページを案内する。制作・協力の相談については一般方針だけを説明し、受注可否、料金、納期、成果物、権利をAIが確約しない。最新の受付状況は制作・協力ページで確認する。
+
+[ENGLISH REFERENCE]
+Product: Sort & Done!
+Shared product identifier: Narabi
+Provider: Mexenixi
+Overview: An iPhone and iPad app for importing photos, scans, PDFs, and supported documents as pages, arranging them freely, and exporting them as PDF or images.
+Availability approach: Every feature is free. No ads, account, analytics SDK, or tracking SDK. Optional support purchases do not unlock features or content.
+Main features: Photo, file, scan, and PDF import; independent pageization for supported documents; workspace and tray; multi-selection; drag and drop; undo and redo; rotation, crop, color adjustment, document correction, paper placement, layer composition; PDF, JPEG, PNG, transparent PNG, and photo-library export; AI handoff PDF and text creation; on-device project storage.
+Documents: DOCX, XLSX, and PPTX input is not a full Microsoft Office compatibility conversion. The app creates independent pages suited to review and rearrangement. Documents that cannot be parsed safely are not added. RTF and RTFD are unsupported.
+Privacy: Projects and OCR results are not automatically sent to a developer server. AI handoff files are not uploaded automatically and the user chooses the destination. The destination service's terms apply after sharing.
+Limitations: Complete accuracy of OCR, document pageization, external AI answers, and exports is not guaranteed. Undo history is not guaranteed after relaunch. Cloud synchronization is not a core feature.
+About Mexenixi: Direct questions about the provider to the official About page. For production or collaboration inquiries, explain only the general policy and never promise acceptance, price, schedule, deliverables, or rights. Check the official inquiry page for current reception status.
+
+[OFFICIAL LINKS]
+Official website: https://mexenixi.mexenixi.workers.dev/
+Product page: https://mexenixi.mexenixi.workers.dev/products/narabi/
+Privacy: https://mexenixi.mexenixi.workers.dev/privacy/
+Terms: https://mexenixi.mexenixi.workers.dev/terms/
+Support: https://mexenixi.mexenixi.workers.dev/support/
+About Mexenixi: https://mexenixi.mexenixi.workers.dev/about/
+Production and collaboration inquiries: https://mexenixi.mexenixi.workers.dev/work-with-us/
+YouTube: https://www.youtube.com/@Mexenixi
+Instagram: https://www.instagram.com/mexenixi/
+X: https://x.com/mexenixi
+TikTok: https://www.tiktok.com/@mexenixi
+Contact: mexenixi@gmail.com

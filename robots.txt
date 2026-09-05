@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://mexenixi.pages.dev/sitemap.xml
+Sitemap: https://mexenixi.mexenixi.workers.dev/sitemap.xml

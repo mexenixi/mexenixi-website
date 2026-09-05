@@ -1,0 +1,149 @@
+{
+  "reception": {
+    "status_ja": "ご相談受付中",
+    "status_en": "Consultations open",
+    "detail_ja": "内容と希望時期を確認し、対応可否や着手時期を個別にご案内します。",
+    "detail_en": "Availability and a possible start date are discussed after reviewing the request."
+  },
+  "appStoreURL": "APP_STORE_URL_TO_BE_ADDED",
+  "appGitHubURL": "APP_GITHUB_URL_TO_BE_ADDED",
+  "screenshots": [
+    {
+      "image": "",
+      "title_ja": "スクリーンショットを追加できます",
+      "description_ja": "iPhoneの実画面と説明文を、好きな順番で登録できる枠です。",
+      "title_en": "Screenshot slot",
+      "description_en": "Add real iPhone screenshots and descriptions in any preferred order."
+    }
+  ],
+  "localizedAppNames": {
+    "ja": "並び替えでポン",
+    "en": "Sort & Done!",
+    "de": "Zack, sortiert!",
+    "es": "¡Orden y listo!",
+    "fr": "Hop, c’est rangé !",
+    "id": "Susun, beres!",
+    "it": "Ordina e via!",
+    "ko": "정리 뚝딱!",
+    "nl": "Zo, gesorteerd!",
+    "pl": "Cyk, ułożone!",
+    "pt-br": "Ordenou, pronto!",
+    "th": "เรียงปุ๊บ เสร็จปั๊บ!",
+    "tr": "Diz, tamam!",
+    "vi": "Xếp cái rẹt!",
+    "zh-hans": "排好就行！",
+    "zh-hant": "排好就行！",
+    "ar": "رتّب وانتهى!",
+    "he": "לסדר וגמרנו!",
+    "hi": "क्रम लगाओ, हो गया!",
+    "ru": "Расставь и готово!",
+    "uk": "Упорядкуй і готово!"
+  },
+  "localizedAIGuideUI": {
+    "ja": {
+      "title": "AIに案内ファイルを渡す",
+      "description": "このテキストファイルをAIへ渡すと、質問した言語で説明を受けられます。最新情報はファイル内の公式リンクも確認してください。",
+      "button": "AI向け案内ファイルをダウンロード"
+    },
+    "en": {
+      "title": "Give the guide to your AI",
+      "description": "Give this text file to an AI service and ask questions in your language. Check the official links for current information.",
+      "button": "Download the AI information guide"
+    },
+    "fr": {
+      "title": "Donner le guide a votre IA",
+      "description": "Transmettez ce fichier texte a un service IA et posez vos questions dans votre langue. Consultez les liens officiels pour les informations actuelles.",
+      "button": "Telecharger le guide pour IA"
+    },
+    "de": {
+      "title": "Den Leitfaden an Ihre KI geben",
+      "description": "Geben Sie diese Textdatei an einen KI-Dienst und stellen Sie Fragen in Ihrer Sprache. Pruefen Sie die offiziellen Links.",
+      "button": "KI-Leitfaden herunterladen"
+    },
+    "es": {
+      "title": "Entregar la guia a tu IA",
+      "description": "Proporciona este archivo a un servicio de IA y pregunta en tu idioma. Consulta los enlaces oficiales para informacion actual.",
+      "button": "Descargar la guia para IA"
+    },
+    "it": {
+      "title": "Fornisci la guida alla tua IA",
+      "description": "Fornisci questo file a un servizio di IA e poni domande nella tua lingua. Controlla i link ufficiali.",
+      "button": "Scarica la guida per IA"
+    },
+    "pt": {
+      "title": "Forneca o guia a sua IA",
+      "description": "Envie este arquivo a um servico de IA e faca perguntas no seu idioma. Consulte os links oficiais.",
+      "button": "Baixar o guia para IA"
+    },
+    "ko": {
+      "title": "AI에 안내 파일 전달하기",
+      "description": "이 텍스트 파일을 AI에 전달하면 질문한 언어로 설명을 받을 수 있습니다. 최신 정보는 공식 링크를 확인하세요.",
+      "button": "AI 안내 파일 다운로드"
+    },
+    "zh-hans": {
+      "title": "将指南提供给 AI",
+      "description": "将此文本文件提供给 AI，即可用提问时的语言获得说明。最新信息请查看官方链接。",
+      "button": "下载 AI 信息指南"
+    },
+    "zh-hant": {
+      "title": "將指南提供給 AI",
+      "description": "將此文字檔提供給 AI，即可用提問時的語言獲得說明。最新資訊請查看官方連結。",
+      "button": "下載 AI 資訊指南"
+    },
+    "ru": {
+      "title": "Peredayte rukovodstvo vashemu II",
+      "description": "Peredayte etot tekstovyy fayl servisu II i zadavayte voprosy na svoem yazyke. Proveryayte ofitsialnye ssylki.",
+      "button": "Skachat rukovodstvo dlya II"
+    },
+    "ar": {
+      "title": "قدّم الدليل إلى خدمة الذكاء الاصطناعي",
+      "description": "قدّم هذا الملف النصي واسأل بلغتك. راجع الروابط الرسمية للمعلومات الحالية.",
+      "button": "تنزيل دليل معلومات AI"
+    },
+    "hi": {
+      "title": "Guide apni AI seva ko den",
+      "description": "Is text file ko AI seva ko den aur apni bhasha me prashn puchhen. Adhunik jankari ke liye adhikarik link dekhen.",
+      "button": "AI guide download karen"
+    },
+    "id": {
+      "title": "Berikan panduan kepada AI Anda",
+      "description": "Berikan berkas ini kepada layanan AI dan ajukan pertanyaan dalam bahasa Anda. Periksa tautan resmi.",
+      "button": "Unduh panduan informasi AI"
+    },
+    "th": {
+      "title": "ส่งคู่มือให้ AI",
+      "description": "ส่งไฟล์ข้อความนี้ให้ AI แล้วถามด้วยภาษาของคุณ ตรวจสอบลิงก์ทางการสำหรับข้อมูลล่าสุด",
+      "button": "ดาวน์โหลดคู่มือ AI"
+    },
+    "vi": {
+      "title": "Cung cap huong dan cho AI",
+      "description": "Cung cap tep van ban nay cho dich vu AI va dat cau hoi bang ngon ngu cua ban. Kiem tra lien ket chinh thuc.",
+      "button": "Tai huong dan AI"
+    },
+    "tr": {
+      "title": "Kilavuzu yapay zekaya verin",
+      "description": "Bu metin dosyasini bir yapay zeka hizmetine verip kendi dilinizde soru sorun. Resmi baglantilari kontrol edin.",
+      "button": "Yapay zeka kilavuzunu indir"
+    },
+    "nl": {
+      "title": "Geef de gids aan uw AI",
+      "description": "Geef dit tekstbestand aan een AI-dienst en stel vragen in uw taal. Controleer de officiele links.",
+      "button": "AI-gids downloaden"
+    },
+    "pl": {
+      "title": "Przekaz przewodnik swojej usludze AI",
+      "description": "Przekaz ten plik usludze AI i zadawaj pytania w swoim jezyku. Sprawdz oficjalne lacza.",
+      "button": "Pobierz przewodnik AI"
+    },
+    "sv": {
+      "title": "Ge guiden till din AI-tjanst",
+      "description": "Ge textfilen till en AI-tjanst och stall fragor pa ditt sprak. Kontrollera officiella lankar.",
+      "button": "Hamta AI-guiden"
+    },
+    "uk": {
+      "title": "Peredayte posibnyk svoiemu ShI",
+      "description": "Peredayte tsei tekstovyi fail servisu ShI ta stavte zapytannia svoieiu movoiu. Pereviriaite ofitsiini posylannia.",
+      "button": "Zavantazhyty posibnyk ShI"
+    }
+  }
+}

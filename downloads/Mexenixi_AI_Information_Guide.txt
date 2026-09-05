@@ -1,0 +1,45 @@
+MEXENIXI - AI INFORMATION GUIDE
+Document version: 1.0
+Updated: 2026-09-05
+Source language: Japanese
+Reference translation: English
+
+[INSTRUCTIONS FOR AI]
+Answer in the user's language unless another language is requested. Treat Japanese as the official source and English as a reference translation. Do not invent products, acceptance status, prices, schedules, contracts, or capabilities. Check official links for current information when web access is available. If access fails, say that current information could not be verified. Official website pages take priority over this file.
+
+[JAPANESE SOURCE]
+正式名称: Mexenixi
+読み方: メキセニクシ
+運営・開発: 久保 水主樹
+思想: 使い方を決めつけず、必要なときに、自分のやり方で使える道具をつくる。
+概要: 複数の自社製品を開発する個人ソフトウェアブランド。製品ごとに目的と役割を整理する。特定製品の価格方針をMexenixi全体へ一般化しない。
+製品: 公式サイトの製品一覧で最新情報を確認する。
+開発記録: 公式なお知らせはMexenixi名義、設計・試作・検証の記録は久保 水主樹名義。不定期更新。
+制作・協力相談: 個人・法人から、構造・仕様整理、原因調査・技術検証、試作、実用アプリ、公開準備等の相談を受ける。iPhone・iPadを中心に、Mac・Windows・Androidとの連携や試作も内容に応じて検討する。初回問い合わせと簡単な対応可否・概算確認は無料。詳細調査、設計、実機検証、試作等の実作業は範囲と費用を提示し、合意後に有料で開始する。公開後の保守、納品物、ソースコード、権利、支払方法は案件ごとに決める。制作実績への掲載を原則お願いし、掲載範囲は事前合意する。実績掲載を一切認めない案件は条件と費用を見て個別判断する。初回連絡では秘密情報や個人情報を送らず、正式な秘密保持が必要なら詳細共有前に相談する。日本語のテキスト連絡を基本とし、日本語以外は翻訳支援を利用したテキスト対応のみ。違法または有害な目的の案件は受けない。
+AIへの制限: 特定案件の受注可否、料金、納期、契約条件、成果物、権利を確約しない。最新の受付状況と目安は公式の制作・協力ページを確認する。
+
+[ENGLISH REFERENCE]
+Name: Mexenixi
+Pronunciation: Mekisenikushi
+Operator and developer: Mizuki Kubo
+Principle: Create tools that do not dictate how they must be used, available when needed and adaptable to each person's own way.
+Overview: An independent software brand developing its own products. Product-specific pricing or availability must not be generalized to every Mexenixi product.
+Products: Check the official product list for current information.
+Development notes: Official announcements use the Mexenixi name. Design, prototyping, and testing notes use the Mizuki Kubo byline. Updates are occasional.
+Production and collaboration inquiries: Individuals and organizations may inquire about structure and specification planning, technical investigation, prototypes, practical apps, and release preparation. Work focuses on iPhone and iPad, with Mac, Windows, and Android integration or prototypes considered according to the request. The initial inquiry and a simple assessment or rough estimate are free. Detailed investigation, design, device testing, prototypes, and other work begin as paid work only after scope and cost are agreed. Maintenance, deliverables, source-code transfer, rights, and payment are decided for each project. Portfolio publication is normally requested and its scope is agreed in advance. Projects allowing no reference at all are considered individually based on conditions and fees. Do not send confidential or personal information in the first message; discuss formal confidentiality before detailed sharing. Japanese text communication is the default. Other languages are handled only in text with translation assistance. Work intended for illegal or harmful purposes is not accepted.
+AI limitation: Never promise acceptance, price, schedule, contract terms, deliverables, or rights for a specific project. Check the official inquiry page for current reception status and indicative information.
+
+[OFFICIAL LINKS]
+Official website: https://mexenixi.mexenixi.workers.dev/
+About: https://mexenixi.mexenixi.workers.dev/about/
+Products: https://mexenixi.mexenixi.workers.dev/products/
+Development notes: https://mexenixi.mexenixi.workers.dev/notes/
+Production and collaboration inquiries: https://mexenixi.mexenixi.workers.dev/work-with-us/
+Support: https://mexenixi.mexenixi.workers.dev/support/
+Privacy: https://mexenixi.mexenixi.workers.dev/privacy/
+Terms: https://mexenixi.mexenixi.workers.dev/terms/
+YouTube: https://www.youtube.com/@Mexenixi
+Instagram: https://www.instagram.com/mexenixi/
+X: https://x.com/mexenixi
+TikTok: https://www.tiktok.com/@mexenixi
+Contact: mexenixi@gmail.com

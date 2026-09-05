@@ -1,23 +1,23 @@
 # Mexenixi Website
 
-Official static website for Mexenixi and Sort & Done!.
+Official static website for Mexenixi.
 
-## Structure
+## Hosting
 
-- Japanese and English pages
-- Product, privacy, terms, commercial disclosure, disclosure request, support, open source, and accessibility pages
-- No analytics, cookies, server-side forms, database, or build framework
-- Designed for Cloudflare Pages with GitHub integration
+The production site uses Cloudflare Workers Static Assets with GitHub integration.
 
-## Local preview
+- Build command: `bash build.sh`
+- Deploy command: `npx wrangler deploy`
+- Static output directory: `dist`
+- Production URL: `https://mexenixi.mexenixi.workers.dev/`
 
-Open `index.html` in a browser, or run a local static server.
+## Content editing
 
-## Cloudflare Pages
+- Brand logo placeholder: `assets/images/brand/mexenixi-symbol-placeholder.svg`
+- Narabi app icon placeholder: `assets/images/apps/narabi/icon-placeholder.svg`
+- Noreku icon placeholder: `assets/images/apps/noreku/icon-placeholder.svg`
+- Screenshot slots: `products/narabi/index.html` and `en/products/narabi/index.html`
+- Shared editable settings and future URLs: `site-content.json`
+- AI guides: `downloads/`
 
-- Framework preset: None
-- Build command: leave blank
-- Build output directory: `/`
-- Production branch: `main`
-
-The sitemap currently assumes `https://mexenixi.pages.dev/`. If Cloudflare assigns a different hostname, replace that hostname in `sitemap.xml` and `robots.txt` before final publication.
+The site uses no server-side form, account, database, advertising, analytics, or cookie-based tracker.
