@@ -9,11 +9,52 @@
   "appGitHubURL": "APP_GITHUB_URL_TO_BE_ADDED",
   "screenshots": [
     {
-      "image": "",
-      "title_ja": "スクリーンショットを追加できます",
-      "description_ja": "iPhoneの実画面と説明文を、好きな順番で登録できる枠です。",
-      "title_en": "Screenshot slot",
-      "description_en": "Add real iPhone screenshots and descriptions in any preferred order."
+      "title_ja": "迷わず始める",
+      "description_ja": "新しく整理を始めるか、保存済みのプロジェクトを続きから開きます。",
+      "title_en": "Start without getting lost",
+      "description_en": "Begin a new project or continue working with a saved project.",
+      "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-01-home.png",
+      "image_en": "assets/images/apps/narabi/screenshots/en/narabi-01-home.png"
+    },
+    {
+      "title_ja": "資料をページとして取り込む",
+      "description_ja": "写真、PDF、文書、スキャンを選び、同じページ素材として取り込みます。",
+      "title_en": "Import material as pages",
+      "description_en": "Bring photos, PDFs, documents, and scans into one common page workspace.",
+      "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-02-import.png",
+      "image_en": "assets/images/apps/narabi/screenshots/en/narabi-02-import.png"
+    },
+    {
+      "title_ja": "編集欄と素材欄で整理",
+      "description_ja": "出力するページは編集欄へ、候補や一時的に外したページは素材欄へ置いて整理できます。",
+      "title_en": "Organize with the editor and material tray",
+      "description_en": "Keep output pages in the editor and hold candidates or temporary pages in the material tray.",
+      "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-03-workspace.png",
+      "image_en": "assets/images/apps/narabi/screenshots/en/narabi-03-workspace.png"
+    },
+    {
+      "title_ja": "ページごとに整える",
+      "description_ja": "切り取り、向き、色、用紙上の配置などをページごとに調整できます。",
+      "title_en": "Adjust each page",
+      "description_en": "Adjust cropping, orientation, color, and placement on the page.",
+      "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-04-page-edit.png",
+      "image_en": "assets/images/apps/narabi/screenshots/en/narabi-04-page-edit.png"
+    },
+    {
+      "title_ja": "複数ページを重ね合わせる",
+      "description_ja": "選んだページを一つの用紙上へ重ね、位置、大きさ、向きを調整して一つのページとして保存できます。",
+      "title_en": "Combine pages in one composition",
+      "description_en": "Layer selected pages on one sheet, adjust their position, size, and rotation, then save the composition as a page.",
+      "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-05-composite.png",
+      "image_en": "assets/images/apps/narabi/screenshots/en/narabi-05-composite.png"
+    },
+    {
+      "title_ja": "AIへの受け渡しも利用者が管理",
+      "description_ja": "必要なページだけをAI用ファイルにまとめ、利用者が選んだ外部AIへ渡します。返された順序は確認後に適用します。",
+      "title_en": "Keep control of optional AI handoff",
+      "description_en": "Create an AI handoff file from selected pages, choose the external service yourself, and review the returned order before applying it.",
+      "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-06-ai-handoff.png",
+      "image_en": "assets/images/apps/narabi/screenshots/en/narabi-06-ai-handoff.png"
     }
   ],
   "localizedAppNames": {

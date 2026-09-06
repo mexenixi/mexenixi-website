@@ -1,0 +1,26 @@
+Narabi Webサイト 日英スクリーンショット差し替えガイド
+
+日本語画像の保存先:
+assets/images/apps/narabi/screenshots/ja/
+
+英語画像の保存先:
+assets/images/apps/narabi/screenshots/en/
+
+両フォルダで共通の固定ファイル名:
+1. narabi-01-home.png
+2. narabi-02-import.png
+3. narabi-03-workspace.png
+4. narabi-04-page-edit.png
+5. narabi-05-composite.png
+6. narabi-06-ai-handoff.png
+
+日本語ページはjaフォルダ、英語ページはenフォルダの画像を表示します。
+画面5は重ね合わせ機能です。
+画像がない枠は壊れた画像ではなく、日本語ページでは「画像を追加」、英語ページでは「Add screenshot」と表示します。
+説明文字を画像へ焼き込む必要はありません。タイトル、説明文、代替テキストはsite-content.jsonで日英別に管理します。
+
+撮影時の推奨:
+- 同じiPhone、向き、表示倍率を使う
+- 日本語版と英語版で同じプロジェクトと同じ操作状態を使う
+- 個人情報、通知、実在する書類を含めない
+- PNG形式を維持する
