@@ -6,53 +6,53 @@
     "detail_en": "Availability and a possible start date are discussed after reviewing the request."
   },
   "appStoreURL": "APP_STORE_URL_TO_BE_ADDED",
-  "appGitHubURL": "APP_GITHUB_URL_TO_BE_ADDED",
+  "appGitHubURL": "https://github.com/mexenixi/narabi",
   "screenshots": [
     {
       "title_ja": "迷わず始める",
-      "description_ja": "新しく整理を始めるか、保存済みのプロジェクトを続きから開きます。",
+      "description_ja": "新しいプロジェクトを作成するか、保存済みのプロジェクトを続きから開きます。",
       "title_en": "Start without getting lost",
-      "description_en": "Begin a new project or continue working with a saved project.",
+      "description_en": "Create a new project or continue working with a saved project.",
       "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-01-home.png",
       "image_en": "assets/images/apps/narabi/screenshots/en/narabi-01-home.png"
     },
     {
-      "title_ja": "資料をページとして取り込む",
-      "description_ja": "写真、PDF、文書、スキャンを選び、同じページ素材として取り込みます。",
-      "title_en": "Import material as pages",
-      "description_en": "Bring photos, PDFs, documents, and scans into one common page workspace.",
+      "title_ja": "写真やPDFをページとして取り込む",
+      "description_ja": "写真、PDF、スキャンした書類などを確認し、編集するページとしてまとめて取り込みます。",
+      "title_en": "Import photos and PDFs as pages",
+      "description_en": "Review photos, PDFs, and scanned documents, then import them together as editable pages.",
       "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-02-import.png",
       "image_en": "assets/images/apps/narabi/screenshots/en/narabi-02-import.png"
     },
     {
       "title_ja": "編集欄と素材欄で整理",
-      "description_ja": "出力するページは編集欄へ、候補や一時的に外したページは素材欄へ置いて整理できます。",
+      "description_ja": "出力するページは上の編集欄で並べ替え、今は使わないページや置き換え候補は下の素材欄へ分けて置けます。",
       "title_en": "Organize with the editor and material tray",
-      "description_en": "Keep output pages in the editor and hold candidates or temporary pages in the material tray.",
+      "description_en": "Reorder output pages in the editor above, and keep pages not currently in use or possible replacements in the material tray below.",
       "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-03-workspace.png",
       "image_en": "assets/images/apps/narabi/screenshots/en/narabi-03-workspace.png"
     },
     {
       "title_ja": "ページごとに整える",
-      "description_ja": "切り取り、向き、色、用紙上の配置などをページごとに調整できます。",
+      "description_ja": "ページごとに切り取り範囲を調整し、カラー、グレー、白黒の出力方法を選べます。",
       "title_en": "Adjust each page",
-      "description_en": "Adjust cropping, orientation, color, and placement on the page.",
+      "description_en": "Adjust the crop for each page and choose color, grayscale, or black-and-white output.",
       "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-04-page-edit.png",
       "image_en": "assets/images/apps/narabi/screenshots/en/narabi-04-page-edit.png"
     },
     {
       "title_ja": "複数ページを重ね合わせる",
-      "description_ja": "選んだページを一つの用紙上へ重ね、位置、大きさ、向きを調整して一つのページとして保存できます。",
-      "title_en": "Combine pages in one composition",
-      "description_en": "Layer selected pages on one sheet, adjust their position, size, and rotation, then save the composition as a page.",
+      "description_ja": "複数のページを一つの用紙上へ重ね、位置、大きさ、向きを調整して一つのページとして保存できます。",
+      "title_en": "Layer pages into one composition",
+      "description_en": "Layer multiple pages on one sheet, adjust their position, size, and rotation, and save the result as a single page.",
       "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-05-composite.png",
       "image_en": "assets/images/apps/narabi/screenshots/en/narabi-05-composite.png"
     },
     {
-      "title_ja": "AIへの受け渡しも利用者が管理",
-      "description_ja": "必要なページだけをAI用ファイルにまとめ、利用者が選んだ外部AIへ渡します。返された順序は確認後に適用します。",
-      "title_en": "Keep control of optional AI handoff",
-      "description_en": "Create an AI handoff file from selected pages, choose the external service yourself, and review the returned order before applying it.",
+      "title_ja": "選んだAIを並び替えに活用する",
+      "description_ja": "並び替えの基準を指定してAI用ファイルを作成し、選んだAIから返された結果を確認して適用します。",
+      "title_en": "Use an AI service of your choice for sorting",
+      "description_en": "Enter sorting instructions, create an AI handoff file, and review the returned order before applying it.",
       "image_ja": "assets/images/apps/narabi/screenshots/ja/narabi-06-ai-handoff.png",
       "image_en": "assets/images/apps/narabi/screenshots/en/narabi-06-ai-handoff.png"
     }
