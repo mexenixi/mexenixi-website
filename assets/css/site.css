@@ -8,3 +8,12 @@
 .diagram-list{display:grid;gap:22px;margin-top:24px}.diagram-card{margin:0;padding:20px;border:1px solid var(--line);border-radius:18px;background:var(--bg)}.diagram-card figcaption{display:grid;gap:6px}.diagram-card figcaption strong{font-size:1.06rem}.diagram-card figcaption span{color:var(--muted)}.diagram-card img{display:block;width:100%;height:auto;margin-top:18px;border-radius:14px;background:var(--surface)}@media(max-width:650px){.design-content{padding:20px}.diagram-card{padding:14px}.diagram-card img{overflow-x:auto}}
 
 @media(max-width:640px){.gallery{max-width:360px;margin-left:auto;margin-right:auto}.gallery-viewport{gap:0}.slide{width:100%;min-width:100%;flex:0 0 100%}}
+
+/* NARABI_MOBILE_GALLERY_COMPACT_V3 */
+@media(max-width:640px){
+  .gallery{max-width:100%;margin-left:auto;margin-right:auto}
+  .gallery-viewport{gap:0}
+  .slide{width:100%;min-width:100%;flex:0 0 100%}
+  .app-screenshot{display:block;width:auto;max-width:72%;height:auto;max-height:360px;margin-left:auto;margin-right:auto;object-fit:contain}
+}
+/* END_NARABI_MOBILE_GALLERY_COMPACT_V3 */
